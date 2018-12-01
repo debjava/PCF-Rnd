@@ -1,0 +1,27 @@
+Login to Cloud Foundary
+-----------------------
+cf login -a https://api.run.pivotal.io
+
+cf target
+
+cf push articulate -p articulate-0.2.jar --random-route
+
+After making deployment
+http://articulate-busy-wombat.cfapps.io/
+
+cf buildpacks
+
+To see the list of apps in your space
+cf apps
+
+cf app articulate : To see the health details
+
+cf stop articulate : To stop the app .
+
+cf start articulate : To start the app
+
+cf restart articulate : To start the app
+
+cf delete articulate - To delete the app
+
+

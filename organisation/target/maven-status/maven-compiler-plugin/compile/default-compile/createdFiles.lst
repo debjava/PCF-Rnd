@@ -1,0 +1,6 @@
+com\ddlab\boot\service\OrgService.class
+com\ddlab\boot\web\BootConfig.class
+com\ddlab\boot\entity\Location.class
+com\ddlab\boot\service\OrgServiceImpl.class
+com\ddlab\boot\controller\OrgController.class
+com\ddlab\boot\web\OrganisationBootApplication.class
